@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@dataform/core": "^3.0.57",
+    "@dataform/core": "^3.0.50",
     "@dataform/compat-for-dbt": "^0.2.13",
     "@dataform/compat-for-dbt-adapters": "^1.17.3",
     "@dataform/compat-for-dbt-bigquery": "^1.10.2"
