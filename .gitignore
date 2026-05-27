@@ -29,3 +29,5 @@ uv.lock
 
 # profiles
 profiles.yml
+node_modules/
+.df-credentials.json
